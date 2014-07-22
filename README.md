@@ -6,6 +6,7 @@
 
 1. [概念图在课堂教学中的应用实践](./概念图在课堂教学中的应用实践.md) 
 2. [初中电学可以这样复习](./study-elec-middle-school.md)
+3. [与黎加厚教授谈概念图](./talkaboutmindmap.md)
 
 ##教育评论
 
