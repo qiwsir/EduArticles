@@ -10,6 +10,8 @@
 
 ##教育评论
 
+1. [教育信息化系列谈](./AboutEducationInformation.md)
+
 ##教育资源
 
 1. [教育资源交流](./教育资源交流.md)
